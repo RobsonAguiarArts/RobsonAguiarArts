@@ -1,8 +1,5 @@
 Seja Bem Vindo Sou o Robson Aguiar
 
-- 💻 Atualmente trabalho como Analista de Suporte
-- 👨‍🎓 Estou cursando o último semestre de ADS na Faculdade Impacta
-
 <div align="center">
   <a href="https://github.com/RobsonAguiarArts">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobsonAguiarArts&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
